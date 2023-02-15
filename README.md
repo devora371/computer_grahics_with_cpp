@@ -25,4 +25,4 @@ This repository contains some basic C++ programs developed in TurboC.
 
 ![pong_game](https://user-images.githubusercontent.com/49578319/213900897-f8e6d519-2644-49d3-975c-3a1c3260c28d.png)
 
-https://www.buymeacoffee.com/devora3
+<a href="https://www.buymeacoffee.com/devora3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
